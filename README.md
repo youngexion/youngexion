@@ -1,4 +1,4 @@
-## Hi, I'm Exion 👋
+## Hi, I'm Exion! 👋
 
 I'm a JS/Lua/Python developer who enjoys building tools, automations, and small projects that make life easier or more fun. ⚙️
 
